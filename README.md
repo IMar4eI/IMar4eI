@@ -20,6 +20,6 @@ Hello! I’m Mark Ivanov, a passionate C++ developer with a strong focus on the 
 📈 GitHub Stats
 
 📫 Contact Me
-  •	Telegram: @Olen4er 
+  •	Telegram: @Mar4e
   • Email: ctark28107537@gmail.com
   
