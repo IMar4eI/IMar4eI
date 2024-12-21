@@ -16,8 +16,16 @@ Hello! I’m Mark Ivanov, a passionate C++ developer with a strong focus on the 
 </p>
 
 🔭 Projects
+  
+📈 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/<IMar4eI>?theme=light&font=Source%20Code%20Pro)](https://leetcode.com/<IMar4eI>/)
 
 📈 GitHub Stats
+
+[![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=<IMar4eI>&show_icons=true&theme=radical)](https://github.com/<IMar4eI>)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<IMar4eI>&layout=compact&theme=radical)](https://github.com/<IMar4eI>)
 
 📫 Contact Me
   •	Telegram: @Mar4e
