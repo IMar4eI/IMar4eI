@@ -10,6 +10,9 @@ Hello! I’m Mark Ivanov, a passionate C++ developer with a strong focus on the 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt" />
   <img src="https://img.shields.io/badge/STL-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="STL" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -22,11 +25,6 @@ Hello! I’m Mark Ivanov, a passionate C++ developer with a strong focus on the 
 
 📈 LeetCode Stats  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/IMar4eI?theme=light&font=Source%20Code%20Pro)](https://leetcode.com/u/IMar4eI/)
-
-💡 LeetCode Progress  
-- Problems Solved: 0+  
-- Contests Participated: 0+  
-- Favorite Topics: Dynamic Programming, Trees  
 
 📫 Contact Me  
   • Telegram: @Mar4e  
