@@ -1,11 +1,10 @@
-💻 Mark Ivanov
+💻 Mark Ivanov  
 C++ Developer | Qt Enthusiast | STL
 
-👋 About Me
-
+👋 About Me  
 Hello! I’m Mark Ivanov, a passionate C++ developer with a strong focus on the Qt framework and the Standard Template Library (STL). I enjoy crafting efficient and robust applications that make a difference.
 
-🛠️ Languages and Tools
+🛠️ Languages and Tools  
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -15,19 +14,20 @@ Hello! I’m Mark Ivanov, a passionate C++ developer with a strong focus on the 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-🔭 Projects
-  
-📈 LeetCode Stats
+🔭 Projects  
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/<IMar4eI>?theme=light&font=Source%20Code%20Pro)](https://leetcode.com/<IMar4eI>/)
+📈 GitHub Stats  
+[![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IMar4eI&show_icons=true&theme=radical)](https://github.com/IMar4eI)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IMar4eI&layout=compact&theme=radical)](https://github.com/IMar4eI)
 
-📈 GitHub Stats
+📈 LeetCode Stats  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/IMar4eI?theme=light&font=Source%20Code%20Pro)](https://leetcode.com/u/IMar4eI/)
 
-[![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=<IMar4eI>&show_icons=true&theme=radical)](https://github.com/<IMar4eI>)
+💡 LeetCode Progress  
+- Problems Solved: 0+  
+- Contests Participated: 0+  
+- Favorite Topics: Dynamic Programming, Trees  
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<IMar4eI>&layout=compact&theme=radical)](https://github.com/<IMar4eI>)
-
-📫 Contact Me
-  •	Telegram: @Mar4e
+📫 Contact Me  
+  • Telegram: @Mar4e  
   • Email: ctark28107537@gmail.com
-  
