@@ -46,7 +46,7 @@ A pet project for implementing a basic search engine.
 [![LeetCode Stats](https://leetcard.jacoblin.cool/IMar4eI?theme=light&font=Source%20Code%20Pro)](https://leetcode.com/u/IMar4eI/)  
 
 📫 **Contact Me**  
-- Telegram: [@Mar4e](https://t.me/Mar4e)  
+- Telegram: [@Mar4e](https://t.me/IMar4eI)  
 - Email: [ctark28107537@gmail.com](mailto:ctark28107537@gmail.com)  
 
 ---
